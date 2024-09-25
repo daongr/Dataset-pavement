@@ -1,4 +1,4 @@
-# Pavement distress data set
+# Pavement distress dataset
 
 
 # License
